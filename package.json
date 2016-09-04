@@ -1,0 +1,22 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "MEAN Development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew-john1/MEAN.git"
+  },
+  "author": "Andrew John <andrew.j@live.nl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrew-john1/MEAN/issues"
+  },
+  "homepage": "https://github.com/andrew-john1/MEAN#readme",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
